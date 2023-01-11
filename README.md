@@ -5,3 +5,4 @@ name = Velouria Rosalinda Perez CNET ID: velouriaperez
 email = velouriaperez@linux5.cs.uchicago.edu
 UChicago CS Git Tutorial
 Git is pretty cool!
+Hopefully our last change...
